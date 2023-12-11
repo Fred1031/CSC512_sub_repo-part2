@@ -1,0 +1,28 @@
+--2023-12-01 09:30:20--  https://drive.google.com/u/0/uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF
+Resolving drive.google.com (drive.google.com)... 142.251.163.113, 142.251.163.100, 142.251.163.102, ...
+Connecting to drive.google.com (drive.google.com)|142.251.163.113|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://drive.google.com/uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF [following]
+--2023-12-01 09:30:20--  https://drive.google.com/uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF
+Reusing existing connection to drive.google.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&followup=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF [following]
+--2023-12-01 09:30:20--  https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&followup=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF
+Resolving accounts.google.com (accounts.google.com)... 172.253.115.84, 2607:f8b0:4004:c06::54
+Connecting to accounts.google.com (accounts.google.com)|172.253.115.84|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://accounts.google.com/InteractiveLogin?continue=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&followup=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&passive=1209600&service=wise&ifkv=ASKXGp0LAa6VsynKD48LR9nnksTavgm-cMDZhTIegdHJ04QvI8DDV5hW9jNGsqTiKNv5jy8i7-GyLQ [following]
+--2023-12-01 09:30:20--  https://accounts.google.com/InteractiveLogin?continue=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&followup=https://drive.google.com/uc?id%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&passive=1209600&service=wise&ifkv=ASKXGp0LAa6VsynKD48LR9nnksTavgm-cMDZhTIegdHJ04QvI8DDV5hW9jNGsqTiKNv5jy8i7-GyLQ
+Reusing existing connection to accounts.google.com:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&followup=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&ifkv=ASKXGp1yVSKoioc7WCcXaWLF80ecaqjelM3lZpDMlTLRO-QlSUmzES035Qjp9SbOLWVnvVXK7W5g2A&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S17269450%3A1701441020823753 [following]
+--2023-12-01 09:30:20--  https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&followup=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF&ifkv=ASKXGp1yVSKoioc7WCcXaWLF80ecaqjelM3lZpDMlTLRO-QlSUmzES035Qjp9SbOLWVnvVXK7W5g2A&passive=1209600&service=wise&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S17269450%3A1701441020823753
+Reusing existing connection to accounts.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF’
+
+uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF     [<=>                                                                            ]       0  --.-KB/s               uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF     [ <=>                                                                           ] 581.12K  --.-KB/s    in 0.08s   
+
+2023-12-01 09:30:21 (6.97 MB/s) - ‘uc?id=12hDxlKizSXtO--ebOK0FOcm-hpr6ZwgF’ saved [595070]
+
